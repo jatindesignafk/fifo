@@ -11,6 +11,7 @@ Full and empty flag generation using pointer comparison
 Active-low reset (reset_n)
 Chip select (cs) for controlled access
 Simple and efficient hardware implementation
+
 🚀 Use Cases
 Data buffering in digital systems
 Communication between modules

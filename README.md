@@ -4,7 +4,7 @@ The FIFO uses separate read and write pointers with an extra MSB bit to efficien
 
 Key features include reliable pointer-based control logic, prevention of overflow/underflow through full and empty flags, and clean synchronous operation with an active-low reset.
 
-Features
+Features:
 Parameterized DATA_WIDTH and FIFO_DEPTH
 Synchronous read and write operations
 Full and empty flag generation using pointer comparison
@@ -12,7 +12,7 @@ Active-low reset (reset_n)
 Chip select (cs) for controlled access
 Simple and efficient hardware implementation
 
-Use Cases
+Use Cases:
 Data buffering in digital systems
 Communication between modules
 Queue implementation in FPGA/ASIC designs
